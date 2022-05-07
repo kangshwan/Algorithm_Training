@@ -1,4 +1,4 @@
-#2693
+#2693 N번째 큰 수
 
 t = int(input())
 a = [list(map(int, input().split())) for _ in range(t)]
