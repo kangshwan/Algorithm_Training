@@ -1,3 +1,4 @@
+#약수구하기
 def div(n, k):
     temp = []
     for i in range(1, n+1):

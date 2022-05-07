@@ -20,14 +20,14 @@
     ex) [🟩](./PART1/BOJ2501_kang.py)-->
 |KANG|문제|SOH|
 |:--:|:--:|:--:|
-|[⬜]()|[약수 구하기](https://www.acmicpc.net/problem/2501)|[🟩](./PART1/BOJ2501_약수구하기.py)|
-|[⬜]()|[이진수](https://www.acmicpc.net/problem/3460)|[🟩](./PART1/BOJ2501_이진수.py)|
-|[⬜]()|[최소,최대](https://www.acmicpc.net/problem/10818)|[🟩](./PART1/BOJ10818_최소,최대.py)|
-|[⬜]()|[지능형 기차 2](https://www.acmicpc.net/problem/2460)|[🟩](./PART1/BOJ2460_지능형기차.py)|
-|[⬜]()|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[🟩](./PART1/BOJ10870_피보나치수5.py)|
-|[⬜]()|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[🟩](./PART1/BOJ2309_일곱난쟁이.py)|
-|[⬜]()|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[🟩](./PART1/BOJ2609_최대공약수와최소공배수.py)|
-|[⬜]()|[N번째 큰 수](https://www.acmicpc.net/problem/2693)|[🟩](./PART1/BOJ2693_N번째큰수.py)|
+|[⬜]()|[약수 구하기](https://www.acmicpc.net/problem/2501)|[🟩](./PART1/BOJ2501_so.py)|
+|[⬜]()|[이진수](https://www.acmicpc.net/problem/3460)|[🟩](./PART1/BOJ3469_so.py)|
+|[⬜]()|[최소,최대](https://www.acmicpc.net/problem/10818)|[🟩](./PART1/BOJ10818_so.py)|
+|[⬜]()|[지능형 기차 2](https://www.acmicpc.net/problem/2460)|[🟩](./PART1/BOJ2460_so.py)|
+|[⬜]()|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[🟩](./PART1/BOJ10870_so.py)|
+|[⬜]()|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[🟩](./PART1/BOJ2309_so.py)|
+|[⬜]()|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[🟩](./PART1/BOJ2609_so.py)|
+|[⬜]()|[N번째 큰 수](https://www.acmicpc.net/problem/2693)|[🟩](./PART1/BOJ2693_so.py)|
 |[⬜]()|[소수 찾기](https://www.acmicpc.net/problem/1978)|[⬜]()|
 |[⬜]()|[쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)|[⬜]()|
 |[⬜]()|[소수](https://www.acmicpc.net/problem/2581)|[⬜]()|

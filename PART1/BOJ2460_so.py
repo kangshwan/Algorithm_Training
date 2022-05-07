@@ -1,3 +1,4 @@
+#지능형 기차 2
 countL = []
 count = 0
 for _ in range(10):
