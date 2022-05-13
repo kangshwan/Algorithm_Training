@@ -28,9 +28,10 @@
 |[⬜]()|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[🟩](./PART1/BOJ2309_so.py)|
 |[⬜]()|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[🟩](./PART1/BOJ2609_so.py)|
 |[⬜]()|[N번째 큰 수](https://www.acmicpc.net/problem/2693)|[🟩](./PART1/BOJ2693_so.py)|
-|[⬜]()|[소수 찾기](https://www.acmicpc.net/problem/1978)|[🟩](./PART1/BOJ1978_so.py)|
-|[⬜]()|[쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)|[🟩](./PART1/BOJ1292_so.py)|
-|[⬜]()|[소수](https://www.acmicpc.net/problem/2581)|[⬜]()|
+
+|[🟩](./PART1/BOJ1978_kang.py)|[소수 찾기](https://www.acmicpc.net/problem/1978)|[🟩](./PART1/BOJ1978_so.py)|
+|[🟩](./PART1/BOJ1292_kang.py)|[쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)|[🟩](./PART1/BOJ1292_so.py)|
+|[🟩](./PART1/BOJ2581_kang.py)|[소수](https://www.acmicpc.net/problem/2581)|[⬜]()|
 
 # PART2 약점 체크
 |KANG|문제|SOH|
