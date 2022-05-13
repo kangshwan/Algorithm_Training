@@ -17,21 +17,21 @@
 # PART1 준비운동
 <!--문제를 풀었으면 ⬜를 🟩로 바꾸기. 
     그리고 ()안에 해당 파일 경로 작성하기.
-    ex) [🟩](./PART1/BOJ2501_kang.py)-->
-|KANG|문제|SOH|
+    ex) [🟩](./PART1/PART1_kang/BOJ2501_kang.py)-->
+|KANG|문제|SO|
 |:--:|:--:|:--:|
-|[⬜]()|[약수 구하기](https://www.acmicpc.net/problem/2501)|[🟩](./PART1/BOJ2501_so.py)|
-|[⬜]()|[이진수](https://www.acmicpc.net/problem/3460)|[🟩](./PART1/BOJ3469_so.py)|
-|[⬜]()|[최소,최대](https://www.acmicpc.net/problem/10818)|[🟩](./PART1/BOJ10818_so.py)|
-|[⬜]()|[지능형 기차 2](https://www.acmicpc.net/problem/2460)|[🟩](./PART1/BOJ2460_so.py)|
-|[⬜]()|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[🟩](./PART1/BOJ10870_so.py)|
-|[⬜]()|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[🟩](./PART1/BOJ2309_so.py)|
-|[⬜]()|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[🟩](./PART1/BOJ2609_so.py)|
-|[⬜]()|[N번째 큰 수](https://www.acmicpc.net/problem/2693)|[🟩](./PART1/BOJ2693_so.py)|
+|[⬜]()|[약수 구하기](https://www.acmicpc.net/problem/2501)|[🟩](./PART1/PART1_so/BOJ2501_so.py)|
+|[⬜]()|[이진수](https://www.acmicpc.net/problem/3460)|[🟩](./PART1/PART1_so/BOJ3469_so.py)|
+|[⬜]()|[최소,최대](https://www.acmicpc.net/problem/10818)|[🟩](./PART1/PART1_so/BOJ10818_so.py)|
+|[⬜]()|[지능형 기차 2](https://www.acmicpc.net/problem/2460)|[🟩](./PART1/PART1_so/BOJ2460_so.py)|
+|[⬜]()|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[🟩](./PART1/PART1_so/BOJ10870_so.py)|
+|[⬜]()|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[🟩](./PART1/PART1_so/BOJ2309_so.py)|
+|[⬜]()|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[🟩](./PART1/PART1_so/BOJ2609_so.py)|
+|[⬜]()|[N번째 큰 수](https://www.acmicpc.net/problem/2693)|[🟩](./PART1/PART1_so/BOJ2693_so.py)|
 
-|[🟩](./PART1/BOJ1978_kang.py)|[소수 찾기](https://www.acmicpc.net/problem/1978)|[🟩](./PART1/BOJ1978_so.py)|
-|[🟩](./PART1/BOJ1292_kang.py)|[쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)|[🟩](./PART1/BOJ1292_so.py)|
-|[🟩](./PART1/BOJ2581_kang.py)|[소수](https://www.acmicpc.net/problem/2581)|[⬜]()|
+|[🟩](./PART1/PART1_kang/BOJ1978_kang.py)|[소수 찾기](https://www.acmicpc.net/problem/1978)|[🟩](./PART1/PART1_so/BOJ1978_so.py)|
+|[🟩](./PART1/PART1_kang/BOJ1292_kang.py)|[쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)|[🟩](./PART1/PART1_so/BOJ1292_so.py)|
+|[🟩](./PART1/PART1_kang/BOJ2581_kang.py)|[소수](https://www.acmicpc.net/problem/2581)|[🟩](./PART1/PART1_so/BOJ2581_so.py)|
 
 # PART2 약점 체크
 |KANG|문제|SOH|
