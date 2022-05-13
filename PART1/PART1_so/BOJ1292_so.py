@@ -1,3 +1,4 @@
+#쉽게 푸는 문제
 n, k = map(int, input().split())
 
 def easy(n, k):
