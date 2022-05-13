@@ -1,3 +1,4 @@
+#소수 찾기
 count = 0
 n = int(input())
 k = list(map(int, input().split()))
