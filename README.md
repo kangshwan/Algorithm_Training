@@ -33,7 +33,7 @@
 |[🟩](./PART1/PART1_kang/BOJ2581_kang.py)|[소수](https://www.acmicpc.net/problem/2581)|[🟩](./PART1/PART1_so/BOJ2581_so.py)|
 
 # PART2 약점 체크
-|KANG|문제|SOH|
+|KANG|문제|SO|
 |:--:|:--:|:--:|
 |[⬜]()|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[⬜]()|
 |[⬜]()|[괄호의 값](https://www.acmicpc.net/problem/2504)|[⬜]()|
@@ -47,7 +47,7 @@
 |[⬜]()|[줄 세우기](https://www.acmicpc.net/problem/2252)|[⬜]()|
 
 # 알고리즘 다지기 기초 백준 문제
-|KANG|문제|SOH|
+|KANG|문제|SO|
 |:--:|:--:|:--:|
 |[⬜]()|[수들의 합](https://www.acmicpc.net/problem/1789)|[⬜]()|
 |[⬜]()|[사탕 게임](https://www.acmicpc.net/problem/3085)|[⬜]()|
