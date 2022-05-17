@@ -11,7 +11,7 @@
 3. File Name : `문제번호_성씨`
     - BOJ1006_kang.cpp  
 
-4. Commit Message : ```[Solve] 💯BOJ(문제번호)_(문제명)```
+4. Commit Message : ```[Solve]💯BOJ(문제번호)_(문제명)```
     - [Solve]💯BOJ2501_약수구하기 <!--띄어쓰기 X-->
     - [Update]✨README.md
 # PART1 준비운동
@@ -20,7 +20,7 @@
     ex) [🟩](./PART1/PART1_kang/BOJ2501_kang.py)-->
 |KANG|문제|SO|
 |:--:|:--:|:--:|
-|[⬜]()|[약수 구하기](https://www.acmicpc.net/problem/2501)|[🟩](./PART1/PART1_so/BOJ2501_so.py)|
+|[🟩](./PART1/PART1_kang/BOJ2501_kang.py)|[약수 구하기](https://www.acmicpc.net/problem/2501)|[🟩](./PART1/PART1_so/BOJ2501_so.py)|
 |[⬜]()|[이진수](https://www.acmicpc.net/problem/3460)|[🟩](./PART1/PART1_so/BOJ3469_so.py)|
 |[⬜]()|[최소,최대](https://www.acmicpc.net/problem/10818)|[🟩](./PART1/PART1_so/BOJ10818_so.py)|
 |[⬜]()|[지능형 기차 2](https://www.acmicpc.net/problem/2460)|[🟩](./PART1/PART1_so/BOJ2460_so.py)|
