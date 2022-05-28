@@ -35,7 +35,7 @@
 # PART2 약점 체크
 |KANG|문제|SO|
 |:--:|:--:|:--:|
-|[⬜]()|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[⬜]()|
+|[⬜]()|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[🟩](./PART2/PART2_so/BOJ14888_so.py)|
 |[⬜]()|[괄호의 값](https://www.acmicpc.net/problem/2504)|[⬜]()|
 |[⬜]()|[빗물](https://www.acmicpc.net/problem/14719)|[⬜]()|
 |[⬜]()|[가르침](https://www.acmicpc.net/problem/1062)|[⬜]()|
