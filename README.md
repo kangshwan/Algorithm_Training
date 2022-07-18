@@ -37,7 +37,7 @@
 |:--:|:--:|:--:|
 |[⬜]()|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[🟩](./PART2/PART2_so/BOJ14888_so.py)|
 |[⬜]()|[괄호의 값](https://www.acmicpc.net/problem/2504)|[⬜]()|
-|[⬜]()|[빗물](https://www.acmicpc.net/problem/14719)|[⬜]()|
+|[⬜]()|[빗물](https://www.acmicpc.net/problem/14719)|[🟩](./PART2/PART2_so/BOJ14179_so.py)|
 |[⬜]()|[가르침](https://www.acmicpc.net/problem/1062)|[⬜]()|
 |[⬜]()|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|[⬜]()|
 |[⬜]()|[부분합](https://www.acmicpc.net/problem/1806)|[⬜]()|
