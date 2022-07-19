@@ -18,33 +18,33 @@
 <!--문제를 풀었으면 ⬜를 🟩로 바꾸기. 
     그리고 ()안에 해당 파일 경로 작성하기.
     ex) [🟩](./PART1/PART1_kang/BOJ2501_kang.py)-->
-|KANG|문제|SO|
-|:--:|:--:|:--:|
-|[🟩](./PART1/PART1_kang/BOJ2501_kang.py)|[약수 구하기](https://www.acmicpc.net/problem/2501)|[🟩](./PART1/PART1_so/BOJ2501_so.py)|
-|[🟩](./PART1/PART1_kang/BOJ3460_kang.py)|[이진수](https://www.acmicpc.net/problem/3460)|[🟩](./PART1/PART1_so/BOJ3469_so.py)|
-|[⬜]()|[최소,최대](https://www.acmicpc.net/problem/10818)|[🟩](./PART1/PART1_so/BOJ10818_so.py)|
-|[⬜]()|[지능형 기차 2](https://www.acmicpc.net/problem/2460)|[🟩](./PART1/PART1_so/BOJ2460_so.py)|
-|[⬜]()|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[🟩](./PART1/PART1_so/BOJ10870_so.py)|
-|[⬜]()|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[🟩](./PART1/PART1_so/BOJ2309_so.py)|
-|[⬜]()|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[🟩](./PART1/PART1_so/BOJ2609_so.py)|
-|[⬜]()|[N번째 큰 수](https://www.acmicpc.net/problem/2693)|[🟩](./PART1/PART1_so/BOJ2693_so.py)|
-|[🟩](./PART1/PART1_kang/BOJ1978_kang.py)|[소수 찾기](https://www.acmicpc.net/problem/1978)|[🟩](./PART1/PART1_so/BOJ1978_so.py)|
-|[🟩](./PART1/PART1_kang/BOJ1292_kang.py)|[쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)|[🟩](./PART1/PART1_so/BOJ1292_so.py)|
-|[🟩](./PART1/PART1_kang/BOJ2581_kang.py)|[소수](https://www.acmicpc.net/problem/2581)|[🟩](./PART1/PART1_so/BOJ2581_so.py)|
+|문제|KANG|SOH|LEE|
+|:--:|:--:|:--:|:--:|
+|[약수 구하기](https://www.acmicpc.net/problem/2501)|[🟩](./PART1/PART1_kang/BOJ2501_kang.py)|[🟩](./PART1/PART1_so/BOJ2501_so.py)|[⬜]()|
+|[이진수](https://www.acmicpc.net/problem/3460)|[🟩](./PART1/PART1_kang/BOJ3460_kang.py)|[🟩](./PART1/PART1_so/BOJ3469_so.py)|[⬜]()|
+|[최소,최대](https://www.acmicpc.net/problem/10818)|[⬜]()|[🟩](./PART1/PART1_so/BOJ10818_so.py)|[⬜]()|
+|[지능형 기차 2](https://www.acmicpc.net/problem/2460)|[⬜]()|[🟩](./PART1/PART1_so/BOJ2460_so.py)|[⬜]()|
+|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[⬜]()|[🟩](./PART1/PART1_so/BOJ10870_so.py)|[⬜]()|
+|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[⬜]()|[🟩](./PART1/PART1_so/BOJ2309_so.py)|[⬜]()|
+|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[⬜]()|[🟩](./PART1/PART1_so/BOJ2609_so.py)|[⬜]()|
+|[N번째 큰 수](https://www.acmicpc.net/problem/2693)|[⬜]()|[🟩](./PART1/PART1_so/BOJ2693_so.py)|[⬜]()|
+|[소수 찾기](https://www.acmicpc.net/problem/1978)|[🟩](./PART1/PART1_kang/BOJ1978_kang.py)|[🟩](./PART1/PART1_so/BOJ1978_so.py)|[⬜]()|
+|[쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)|[🟩](./PART1/PART1_kang/BOJ1292_kang.py)|[🟩](./PART1/PART1_so/BOJ1292_so.py)|[⬜]()|
+|[소수](https://www.acmicpc.net/problem/2581)|[🟩](./PART1/PART1_kang/BOJ2581_kang.py)|[🟩](./PART1/PART1_so/BOJ2581_so.py)|[⬜]()|
 
 # PART2 약점 체크
-|KANG|문제|SOH|
-|:--:|:--:|:--:|
-|[🟩](./PART1/PART1_kang/BOJ14888_kang.py)|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[⬜]()|
-|[🟩](./PART1/PART1_kang/BOJ2504_kang.py)|[괄호의 값](https://www.acmicpc.net/problem/2504)|[⬜]()|
-|[⬜]()|[빗물](https://www.acmicpc.net/problem/14719)|[⬜]()|
-|[⬜]()|[가르침](https://www.acmicpc.net/problem/1062)|[⬜]()|
-|[⬜]()|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|[⬜]()|
-|[⬜]()|[부분합](https://www.acmicpc.net/problem/1806)|[⬜]()|
-|[⬜]()|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[⬜]()|
-|[⬜]()|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[⬜]()|
-|[⬜]()|[부분 문자열](https://www.acmicpc.net/problem/16916)|[⬜]()|
-|[⬜]()|[줄 세우기](https://www.acmicpc.net/problem/2252)|[⬜]()|
+|문제|KANG|SOH|LEE|
+|:--:|:--:|:--:|:--:|
+|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[🟩](./PART1/PART2_kang/BOJ14888_kang.py)|[⬜]()|[⬜]()|
+|[괄호의 값](https://www.acmicpc.net/problem/2504)|[🟩](./PART1/PART2_kang/BOJ2504_kang.py)|[⬜]()|[⬜]()|
+|[빗물](https://www.acmicpc.net/problem/14719)|[🟩](./PART2/PART2_kang/BOJ14719_kang.py)|[⬜]()|[⬜]()|
+|[가르침](https://www.acmicpc.net/problem/1062)|[🟩](./PART2/PART2_kang/BOJ1062_kang.py)|[⬜]()|[⬜]()|
+|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|[⬜]()|[⬜]()|[⬜]()|
+|[부분합](https://www.acmicpc.net/problem/1806)|[⬜]()|[⬜]()|[⬜]()|
+|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[⬜]()|[⬜]()|[⬜]()|
+|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[⬜]()|[⬜]()|[⬜]()|
+|[부분 문자열](https://www.acmicpc.net/problem/16916)|[⬜]()|[⬜]()|[⬜]()|
+|[줄 세우기](https://www.acmicpc.net/problem/2252)|[⬜]()|[⬜]()|[⬜]()|
 
 # 알고리즘 다지기 기초 백준 문제
 |KANG|문제|SOH|
