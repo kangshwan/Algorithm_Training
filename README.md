@@ -142,7 +142,7 @@
 <a href = "https://github.com/bona0722">
   <img src="https://avatars.githubusercontent.com/u/58328096?v=4" alt="hojung" width="80" style="max-width:100%" />
 </a>
-<a href = "https://github.com/bona0722">
+<a href = "https://github.com/ujin2021">
   <img src="https://avatars.githubusercontent.com/u/53362054?v=4" alt="youjin" width="80" style="max-width:100%" />
 </a>
 
