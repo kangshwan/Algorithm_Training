@@ -22,7 +22,7 @@
 |:--|:--:|:--:|:--:|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" height="12"> 약수 구하기](https://www.acmicpc.net/problem/2501)|[🟩](./PART1/PART1_kang/BOJ2501_kang.py)|[🟩](./PART1/PART1_so/BOJ2501_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" height="12"> 이진수](https://www.acmicpc.net/problem/3460)|[🟩](./PART1/PART1_kang/BOJ3460_kang.py)|[🟩](./PART1/PART1_so/BOJ3469_so.py)|[⬜]()|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" height="12"> 최소,최대](https://www.acmicpc.net/problem/10818)|[⬜]()|[🟩](./PART1/PART1_so/BOJ10818_so.py)|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" height="12"> 최소,최대](https://www.acmicpc.net/problem/10818)|[🟩](/PART1/PART1_kang/BOJ10818_kang.py)|[🟩](./PART1/PART1_so/BOJ10818_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" height="12"> 지능형 기차 2](https://www.acmicpc.net/problem/2460)|[⬜]()|[🟩](./PART1/PART1_so/BOJ2460_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" height="12"> 피보나치 수 5](https://www.acmicpc.net/problem/10870)|[⬜]()|[🟩](./PART1/PART1_so/BOJ10870_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" height="12"> 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[⬜]()|[🟩](./PART1/PART1_so/BOJ2309_so.py)|[⬜]()|
