@@ -43,8 +43,8 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 부분합](https://www.acmicpc.net/problem/1806)|[🟩](./PART2/PART2_kang/BOJ1806_kang.py)|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 최소비용 구하기](https://www.acmicpc.net/problem/1916)|[🟩](./PART2/PART2_kang/BOJ1916_kang.py)|[🟩](./PART2/PART2_so/BOJ1916_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[🟩](./PART2/PART2_kang/BOJ1197_kang.py)|[🟩](./PART2/PART2_so/BOJ1197_so.py)|[⬜]()|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 부분 문자열](https://www.acmicpc.net/problem/16916)|[⬜]()|[⬜]()|[⬜]()|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> 줄 세우기](https://www.acmicpc.net/problem/2252)|[⬜]()|[⬜]()|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 부분 문자열](https://www.acmicpc.net/problem/16916)|[⬜]()|[🟩](./PART2/PART2_so/BOJ16916_so.py)|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> 줄 세우기](https://www.acmicpc.net/problem/2252)|[⬜]()|[🟩](./PART2/PART2_so/BOJ2252_so.py)|[⬜]()|
 
 # 알고리즘 다지기 기초 백준 문제
 |문제|KANG|SOH|LEE|
