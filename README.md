@@ -50,7 +50,7 @@
 |문제|KANG|SOH|LEE|
 |:--|:--:|:--:|:--:|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 수들의 합](https://www.acmicpc.net/problem/1789)|[⬜]()|[🟩](./PART3/PART3_so/BOJ1789_so.py)|[⬜]()|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 사탕 게임](https://www.acmicpc.net/problem/3085)|[⬜]()|[⬜]()|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 사탕 게임](https://www.acmicpc.net/problem/3085)|[⬜]()|[🟩](./PART3/PART3_so/BOJ3085_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 동전 1](https://www.acmicpc.net/problem/2293)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 동전 2](https://www.acmicpc.net/problem/2294)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[⬜]()|[⬜]()|[⬜]()|
