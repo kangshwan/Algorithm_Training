@@ -53,7 +53,7 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 사탕 게임](https://www.acmicpc.net/problem/3085)|[⬜]()|[🟩](./PART3/PART3_so/BOJ3085_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 동전 1](https://www.acmicpc.net/problem/2293)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 동전 2](https://www.acmicpc.net/problem/2294)|[⬜]()|[⬜]()|[⬜]()|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[⬜]()|[⬜]()|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[⬜]()|[🟩](./PART3/PART3_so/BOJ2667_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 감소하는 수](https://www.acmicpc.net/problem/1038)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[⬜]()|[⬜]()|[⬜]()|
 
