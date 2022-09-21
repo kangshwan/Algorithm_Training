@@ -60,8 +60,8 @@
 # 최고 빈출 DFS, BFS 기본문제
 |문제|KANG|SOH|LEE|
 |:--|:--:|:--:|:--:|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> DFS와 BFS](https://www.acmicpc.net/problem/1260)|[⬜]()|[⬜]()|[⬜]()|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 전쟁-전투](https://www.acmicpc.net/problem/1303)|[⬜]()|[⬜]()|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> DFS와 BFS](https://www.acmicpc.net/problem/1260)|[⬜]()|[🟩](./PART4/PART4_so/BOJ1260_so.py)|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 전쟁-전투](https://www.acmicpc.net/problem/1303)|[⬜]()|[🟩](./PART4/PART4_so/BOJ1303_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 미로탐색](https://www.acmicpc.net/problem/2178)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 음식물 피하기](https://www.acmicpc.net/problem/1743)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 바이러스](https://www.acmicpc.net/problem/2606)|[⬜]()|[⬜]()|[⬜]()|
