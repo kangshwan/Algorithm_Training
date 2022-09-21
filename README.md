@@ -55,13 +55,13 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 동전 2](https://www.acmicpc.net/problem/2294)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[⬜]()|[🟩](./PART3/PART3_so/BOJ2667_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 감소하는 수](https://www.acmicpc.net/problem/1038)|[⬜]()|[⬜]()|[⬜]()|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[⬜]()|[⬜]()|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[⬜]()|[🟩](./PART3/PART3_so/BOJ17070_so.py)|[⬜]()|
 
 # 최고 빈출 DFS, BFS 기본문제
 |문제|KANG|SOH|LEE|
 |:--|:--:|:--:|:--:|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> DFS와 BFS](https://www.acmicpc.net/problem/1260)|[⬜]()|[⬜]()|[⬜]()|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 전쟁-전투](https://www.acmicpc.net/problem/1303)|[⬜]()|[⬜]()|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> DFS와 BFS](https://www.acmicpc.net/problem/1260)|[⬜]()|[🟩](./PART4/PART4_so/BOJ1260_so.py)|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 전쟁-전투](https://www.acmicpc.net/problem/1303)|[⬜]()|[🟩](./PART4/PART4_so/BOJ1303_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 미로탐색](https://www.acmicpc.net/problem/2178)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 음식물 피하기](https://www.acmicpc.net/problem/1743)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 바이러스](https://www.acmicpc.net/problem/2606)|[⬜]()|[⬜]()|[⬜]()|
