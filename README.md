@@ -63,7 +63,7 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> DFS와 BFS](https://www.acmicpc.net/problem/1260)|[⬜]()|[🟩](./PART4/PART4_so/BOJ1260_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 전쟁-전투](https://www.acmicpc.net/problem/1303)|[⬜]()|[🟩](./PART4/PART4_so/BOJ1303_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 미로탐색](https://www.acmicpc.net/problem/2178)|[⬜]()|[⬜]()|[⬜]()|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 음식물 피하기](https://www.acmicpc.net/problem/1743)|[⬜]()|[⬜]()|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 음식물 피하기](https://www.acmicpc.net/problem/1743)|[⬜]()|[🟩](./PART4/PART4_so/BOJ1743_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 바이러스](https://www.acmicpc.net/problem/2606)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> A→B](https://www.acmicpc.net/problem/16953)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 숨바꼭질2](https://www.acmicpc.net/problem/12851)|[⬜]()|[⬜]()|[⬜]()|
